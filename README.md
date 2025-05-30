@@ -39,8 +39,9 @@ Untuk menjawab permasalahan bisnis dari perusahaan ini, perlu dilakukan analisis
 ---
 
 Persiapan 
-Sumber data: [Dataset Jaya Jaya Institute Student](https://github.com/dicodingacademy/dicoding_dataset/tree/main/employee) 
-
+Sumber data: 
+* [Dataset Jaya Jaya Institute Student](https://github.com/dicodingacademy/dicoding_dataset/tree/main/students_performance 'Dicoding GitHub Dataset') 
+* [Students' Dropout and Academic Dataset UCIML](https://doi.org/10.24432/C5MC89 'UCI Machine Learning - Predict Students Dropout and Academic Success')
 Setup environment: 
 ```
 # Membuat virtual environment
